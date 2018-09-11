@@ -1,2 +1,2 @@
 # gram
-Decentralized encrypted messenger
+Decentralized serverless encrypted messenger
